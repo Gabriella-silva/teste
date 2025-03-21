@@ -3,6 +3,6 @@ import React from 'react';
 
 export default function RestaurantScreen(){
     return (
-        <View></View>
+        <View><Text>AAAAAA</Text></View>
     )
 }
